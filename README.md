@@ -1,7 +1,7 @@
 # hh99-SA
 hh99-Starting Assignment
 
-# N반 6조
+# N반 5조
 
 ## Eric Kim
 ### 팀장님
