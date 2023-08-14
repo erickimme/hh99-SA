@@ -1,7 +1,7 @@
 # hh99-SA
 hh99-Starting Assignment
 
-# N반 5조
+# N반 6조
 
 ## Eric Kim
 ### 팀장님
@@ -16,3 +16,5 @@ hh99-Starting Assignment
 ### 팀원3 역할 담당
 
 ### 팀원분들 모두 화이팅입니다!!
+
+
